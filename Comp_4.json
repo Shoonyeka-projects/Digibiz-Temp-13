@@ -1,0 +1,36 @@
+
+{
+    "component_4": {
+      "title": "Our Team",
+      "iconSrc": "images/icon-1.png",
+      "titleColor": "#1f1f1f",
+      "description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "teamMembers": [
+        {
+          "imageSrc": "images/img-4.png",
+          "followText": "Follow Us",
+          "socialIcons": [
+            { "iconSrc": "images/fb-icon.png", "alt": "Facebook" },
+            { "iconSrc": "images/twitter-icon.png", "alt": "Twitter" },
+            { "iconSrc": "images/linkden-icon.png", "alt": "LinkedIn" },
+            { "iconSrc": "images/instagram-icon.png", "alt": "Instagram" }
+          ],
+          "consecteturText": "Consectetur",
+          "dummyText": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem"
+        },
+        {
+          "imageSrc": "images/img-4.png",
+          "followText": "Follow Us",
+          "socialIcons": [
+            { "iconSrc": "images/fb-icon.png", "alt": "Facebook" },
+            { "iconSrc": "images/twitter-icon.png", "alt": "Twitter" },
+            { "iconSrc": "images/linkden-icon.png", "alt": "LinkedIn" },
+            { "iconSrc": "images/instagram-icon.png", "alt": "Instagram" }
+          ],
+          "consecteturText": "Consectetur",
+          "dummyText": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem"
+        }
+      ]
+    }
+  }
+  

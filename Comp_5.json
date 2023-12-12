@@ -1,0 +1,15 @@
+
+{
+    "component_5": {
+      "newsletterHeaderText": "Newsletter",
+      "temporText": "Tempor incididunt ut labore et dolore magna aliqua",
+      "placeholderText": "ENTER YOUR MAIL",
+      "subscribeButtonText": "SUBSCRIBE",
+
+      "newsletterHeaderText_meta": "10",
+      "temporText_meta": "50",
+      "placeholderText_meta": "15",
+      "subscribeButtonText_meta": "9"
+    }
+  }
+  

@@ -1,0 +1,19 @@
+
+{
+    "component_3": {
+      "title": "Why Choose Us",
+      "iconSrc": "images/icon-1.png",
+      "titleColor": "#1f1f1f",
+      "description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "boxes": [
+        { "count": "12004+", "text": "Our clients" },
+        { "count": "10004+", "text": "Happy clients" },
+        { "count": "804+", "text": "Supports" },
+        { "count": "905+", "text": "Awards" }
+      ],
+      "imageSrc": "images/img-3.png",
+      "getQuoteLink": "/get-a-quote",
+      "getQuoteText": "Get A quote"
+    }
+  }
+  

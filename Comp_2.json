@@ -1,0 +1,23 @@
+
+{
+    "component_2": {
+      "imageSrc": "images/img-2.png",
+      "title": "About Cleaning",
+      "iconSrc": "images/icon-1.png",
+      "titleColor": "#1f1f1f",
+      "text": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Ut enim ad minim veniam, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+      ],
+      "readMoreLink": "/read-more",
+      "readMoreText": "READ MORE",
+      "readMoreIconSrc": "images/contact-icon1.png",
+
+      "title_meta": "14",
+      "text_meta": [
+        "123",
+        "173"
+      ]
+    }
+  }
+  
